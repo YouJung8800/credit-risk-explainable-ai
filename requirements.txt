@@ -1,0 +1,14 @@
+torch
+pandas
+numpy
+scikit-learn
+matplotlib
+requests
+shap
+openpyxl
+xlrd
+fastapi
+uvicorn
+joblib
+pytest
+httpx

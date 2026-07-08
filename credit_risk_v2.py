@@ -172,6 +172,15 @@ plt.savefig("credit_risk_v2_dashboard.png", dpi=150)
 print("\n최종 대시보드 저장: credit_risk_v2_dashboard.png")
 plt.show()
 
+
+# ---------- 모델 및 스케일러 저장 (배포용) ----------
+import joblib
+torch.save(final_model.state_dict(), "credit_risk_model.pt")
+joblib.dump(final_scaler, "scaler.pkl")
+joblib.dump(feature_cols, "feature_cols.pkl")
+joblib.dump(float(best_threshold), "threshold.pkl")
+print("\n모델 아티팩트 저장 완료: credit_risk_model.pt, scaler.pkl, feature_cols.pkl, threshold.pkl")
+
 print(f"\n=== 최종 요약 ===")
 print(f"5-Fold 평균 ROC-AUC: {np.mean(fold_aucs):.4f} ± {np.std(fold_aucs):.4f}")
 print(f"최적 임계값: {best_threshold:.3f}")
