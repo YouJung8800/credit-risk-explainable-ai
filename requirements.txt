@@ -12,3 +12,4 @@ uvicorn
 joblib
 pytest
 httpx
+streamlit
