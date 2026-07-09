@@ -1,3 +1,11 @@
+![architecture](architecture_diagram.png)
+
+![Python](https://img.shields.io/badge/Python-3.11-blue) ![PyTorch](https://img.shields.io/badge/PyTorch-MLP-orange) ![Tests](https://img.shields.io/badge/tests-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
+![architecture](architecture_diagram.png)
+
+![Python](https://img.shields.io/badge/Python-3.11-blue) ![PyTorch](https://img.shields.io/badge/PyTorch-MLP-orange) ![Tests](https://img.shields.io/badge/tests-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
 # Explainable Deep Learning for Credit Default Risk
 
 카드사 리스크관리 실무를 겨냥한 프로젝트: PyTorch 기반 신용카드 대손(default)
