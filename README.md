@@ -1,12 +1,15 @@
-![pipeline](credit_architecture_v2.png)
+# 💳 Explainable Deep Learning for Credit Default Risk
 
-![architecture](architecture_diagram.png)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-MLP-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License">
+</p>
 
-![Python](https://img.shields.io/badge/Python-3.11-blue) ![PyTorch](https://img.shields.io/badge/PyTorch-MLP-orange) ![Tests](https://img.shields.io/badge/tests-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
-
-![architecture](architecture_diagram.png)
-
-![Python](https://img.shields.io/badge/Python-3.11-blue) ![PyTorch](https://img.shields.io/badge/PyTorch-MLP-orange) ![Tests](https://img.shields.io/badge/tests-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
+<!-- width="100%" 속성이 좌우 잘림을 완벽하게 방지합니다 -->
+<p align="center">
+  <img src="credit_architecture_v2.png" width="100%">
+</p>
 
 # Explainable Deep Learning for Credit Default Risk
 
