@@ -1,3 +1,5 @@
+![pipeline](credit_architecture_v2.png)
+
 ![architecture](architecture_diagram.png)
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue) ![PyTorch](https://img.shields.io/badge/PyTorch-MLP-orange) ![Tests](https://img.shields.io/badge/tests-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
